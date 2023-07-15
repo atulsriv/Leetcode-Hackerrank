@@ -1,0 +1,16 @@
+from typing import List
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        max_profit = 0
+        local_min_stock_price = prices[0]
+
+        for price in prices:
+            profit = price - local_min_stock_price
+            if profit > max_profit:
+                max_profit = profit
+
+            if price < local_min_stock_price:
+                local_min_stock_price = price
+
+        return max_profit
