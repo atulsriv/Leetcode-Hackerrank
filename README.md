@@ -12,3 +12,5 @@ Keeping track of my solutions to popular algorithm problems
 | 11. Container With Most Water | [Accepted](md/11.md)
 | 238. Product of Array Except Self | [Accepted](md/238.md)
 | 242. Valid Anagrams | [Accepted](md/242.md)
+| 128. Longest Consecutive Sequence [Accepted](md/128.md)
+
