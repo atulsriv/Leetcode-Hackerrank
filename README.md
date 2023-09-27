@@ -14,3 +14,5 @@ Keeping track of my solutions to popular algorithm problems
 | 347. Top K Most Frequent Elements | [Accepted](md/347.md)
 | 238. Product of Array Except Self | [Accepted](md/238.md)
 | 242. Valid Anagrams | [Accepted](md/242.md)
+| 128. Longest Consecutive Sequence [Accepted](md/128.md)
+
