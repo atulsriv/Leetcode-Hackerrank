@@ -18,4 +18,5 @@ Keeping track of my solutions to popular algorithm problems
 | 49. Group Anagrams | [Accepted](md/49.md)
 | 36. Valid Sudoku | [Accepted](md/36.md)
 | 42. Trapping Rain Water | [Accepted](md/42.md)
+| 125. Valid Palindrome | [Accepted](125.md)
 
