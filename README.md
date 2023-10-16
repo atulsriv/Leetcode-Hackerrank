@@ -17,4 +17,5 @@ Keeping track of my solutions to popular algorithm problems
 | 128. Longest Consecutive Sequence | [Accepted](md/128.md)
 | 49. Group Anagrams | [Accepted](md/49.md)
 | 36. Valid Sudoku | [Accepted](md/36.md)
+| 42. Trapping Rain Water | [Accepted](md/42.md)
 
